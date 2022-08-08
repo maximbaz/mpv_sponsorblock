@@ -37,7 +37,7 @@ local options = {
     display_name = "",
 
     -- Tell the server when a skip happens
-    report_views = true,
+    report_views = false,
 
     -- Auto upvote skipped sponsors
     auto_upvote = false,
